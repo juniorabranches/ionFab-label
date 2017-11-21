@@ -1,2 +1,5 @@
-# ionFab-label
-An example of usage ionFab button with labels
+![View this](src/assets/gif.gif)
+
+# To run:
+* > npm install
+* > ionic serve -l (with live reload)
